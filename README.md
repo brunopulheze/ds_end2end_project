@@ -35,7 +35,7 @@ ds_end2end_project/
 ### Prerequisites
 
 ```bash
-pip install pandas numpy yfinance matplotlib scikit-learn xgboost
+pip install pandas numpy yfinance matplotlib scikit-learn xgboost nltk
 ```
 
 ### Run the Notebook
@@ -108,7 +108,6 @@ pip install pandas numpy yfinance matplotlib scikit-learn xgboost
 
 The `news_sentiment_nlp_notebook.ipynb` analyzes stock market news headlines:
 - **Sentiment Analysis**: Classifies news as positive/negative/neutral using VADER
-- **Text Clustering**: Groups similar articles using TF-IDF + K-Means
 - **Word Frequency**: Identifies most common terms in financial news
 
 ## 🛠️ Technologies Used
