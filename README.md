@@ -2,6 +2,8 @@
 
 A beginner-friendly machine learning project that analyzes and forecasts gold and silver prices using historical futures data.
 
+You can view the slideshow presentation [here](https://www.canva.com/design/DAG-bdvH--Q/N6BvJ3XpflKFcMUcaJziNQ/edit?utm_content=DAG-bdvH--Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
+
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3-orange)
 ![yFinance](https://img.shields.io/badge/yFinance-0.2-green)
